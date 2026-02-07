@@ -1,0 +1,9 @@
+
+{
+  "name": "LexTrack Pro Edition",
+  "description": "A safety-first, multi-agent AI demonstrator with Smart Hearing Scheduling for Advocates and Clients.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "requestNotificationPermissions": true
+}
